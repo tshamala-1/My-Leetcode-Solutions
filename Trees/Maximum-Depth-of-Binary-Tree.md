@@ -1,4 +1,4 @@
-# 104. Maximum Depth of Binary Tree
+# Maximum Depth of Binary Tree
 
 ## 🧩 Problem
 Given the root of a binary tree, return its maximum depth.
